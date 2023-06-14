@@ -1,0 +1,15 @@
+.navbar-brand{
+	text-align: left;
+}
+
+h2{
+	font-family: sans-serif;
+	margin-top: 100px;
+}
+.bg-color{
+	background-color: burlywood;
+}
+p {
+	border-color: solid black;
+	border: 1px;
+}
